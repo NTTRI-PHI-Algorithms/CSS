@@ -10,7 +10,7 @@ Author: Sam Reifenstein
 1) create a python environment (e.g. CSS)
 2) clone the python repository found at https://github.com/NTTRI-PHI-Algorithms/CSS
 3) install via "pip install ." at the root of the repository
-4) run "python ./CSS/random3-SAT.py",
+4) see notebook "SAT Solver.ipynb", or run "python ./CSS/random3-SAT.py",
 "python ./CSS/phaseTransition.py"
 
 
